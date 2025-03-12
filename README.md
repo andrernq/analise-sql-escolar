@@ -1,4 +1,4 @@
-# 📊 Análise de Dados com SQL no MySQL
+# 📊 Análise de dados com SQL no MySQL
 
 Este projeto foi desenvolvido para modelar e analisar um banco de dados escolar utilizando **SQL e MySQL**.
 
